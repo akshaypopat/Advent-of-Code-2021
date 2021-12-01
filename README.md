@@ -1,5 +1,5 @@
 # Advent-of-Code-2021
 
-[https://adventofcode.com/2021/](See the website)
+[See the website](https://adventofcode.com/2021/)
 
-## [akshaypopat.github.io/Advent-of-Code-2021](Link to my solutions)
+## [Link to my solutions](akshaypopat.github.io/Advent-of-Code-2021)
